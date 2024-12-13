@@ -1,0 +1,2671 @@
+
+TRAIN COMPOSIOTION - ID 11
+Whole distance - 8.0
+Distance already traveled to next Station - 25 %
+Distance already traveled - 20 %
+*********************************
+Locomotive 
+ID - 11
+name - 'Sawa' 
+mother - Station: 79
+starting station - Station: 13
+destination station - Station: 6
+maximum number of carriges - 25
+maximum Weight Of Torsion - 232619 Kg
+maximum Number Of Electric Carriges - 12
+speed - 113
+*********************************
+*********************************
+Passanger Wagon
+ID - 80
+sender - Pieniny
+Net weight - 4714
+Gross weight - 7841
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 125
+Number of toilets - 2
+*********************************
+ *********************************
+Freight Wagon
+ID - 81
+sender - Pieniny
+Net weight - 10525
+Gross weight - 15086
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 8
+*********************************
+ *********************************
+Freight Wagon
+ID - 76
+sender - Tatry
+Net weight - 10578
+Gross weight - 17785
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 18
+*********************************
+ *********************************
+Restaurant wagon
+ID - 77
+sender - Wisla
+Net weight - 11916
+Gross weight - 18445
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Restaurant wagon
+ID - 79
+sender - Mewa
+Net weight - 11034
+Gross weight - 18892
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 82
+sender - Tetmajer
+Net weight - 22846 
+Gross weight - 36647
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 13
+Built-in Excavator - true
+Max weight od each element - 16
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 78
+sender - Krokus
+Net weight - 23631 
+Gross weight - 42465
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 17
+Built-in Excavator - false
+Max weight od each element - 9
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 6
+Whole distance - 9.0
+Distance already traveled to next Station - 60 %
+Distance already traveled - 12 %
+*********************************
+Locomotive 
+ID - 6
+name - 'Artus' 
+mother - Station: 64
+starting station - Station: 14
+destination station - Station: 7
+maximum number of carriges - 28
+maximum Weight Of Torsion - 317706 Kg
+maximum Number Of Electric Carriges - 21
+speed - 106
+*********************************
+*********************************
+Restaurant wagon
+ID - 39
+sender - Mewa
+Net weight - 13856
+Gross weight - 12480
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 38
+sender - Tetmajer
+Net weight - 10071
+Gross weight - 12849
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 11
+Temperature - 20
+Number of refrigerators - 11
+*********************************
+ *********************************
+Restaurant wagon
+ID - 43
+sender - Tatry
+Net weight - 12913
+Gross weight - 14097
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 41
+sender - Mewa
+Net weight - 10056
+Gross weight - 15926
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 13
+Temperature - 12
+Number of refrigerators - 9
+*********************************
+ *********************************
+Freight Wagon
+ID - 37
+sender - Krokus
+Net weight - 10165
+Gross weight - 16414
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 20
+*********************************
+ *********************************
+Freight Wagon
+ID - 42
+sender - Mewa
+Net weight - 8324
+Gross weight - 16932
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 11
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 40
+sender - Posejdon
+Net weight - 18861 
+Gross weight - 47690
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 13
+Built-in Excavator - false
+Max weight od each element - 16
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 8
+Whole distance - 62.0
+Distance already traveled to next Station - 89 %
+Distance already traveled - 0 %
+*********************************
+Locomotive 
+ID - 8
+name - 'Tatry' 
+mother - Station: 37
+starting station - Station: 55
+destination station - Station: 41
+maximum number of carriges - 25
+maximum Weight Of Torsion - 280813 Kg
+maximum Number Of Electric Carriges - 13
+speed - 114
+*********************************
+*********************************
+Passanger Wagon
+ID - 56
+sender - Krokus
+Net weight - 6114
+Gross weight - 8335
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 124
+Number of toilets - 2
+*********************************
+ *********************************
+Restaurant wagon
+ID - 55
+sender - Mickiewicz
+Net weight - 11460
+Gross weight - 14895
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Restaurant wagon
+ID - 53
+sender - Wisla
+Net weight - 8346
+Gross weight - 15785
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Restaurant wagon
+ID - 49
+sender - Tetmajer
+Net weight - 12662
+Gross weight - 15996
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Freight Wagon
+ID - 52
+sender - Goplana
+Net weight - 10591
+Gross weight - 16627
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 12
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 51
+sender - Sawa
+Net weight - 9371
+Gross weight - 17529
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 13
+Temperature - 17
+Number of refrigerators - 19
+*********************************
+ *********************************
+Freight Wagon
+ID - 57
+sender - Wisla
+Net weight - 10943
+Gross weight - 17777
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 15
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 50
+sender - Sawa
+Net weight - 19601 
+Gross weight - 38734
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 18
+Built-in Excavator - true
+Max weight od each element - 15
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 54
+sender - Pieniny
+Net weight - 23411 
+Gross weight - 47813
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 19
+Built-in Excavator - false
+Max weight od each element - 12
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 10
+Whole distance - 64.0
+Distance already traveled to next Station - 89 %
+Distance already traveled - 0 %
+*********************************
+Locomotive 
+ID - 10
+name - 'Tatry' 
+mother - Station: 62
+starting station - Station: 94
+destination station - Station: 47
+maximum number of carriges - 25
+maximum Weight Of Torsion - 215472 Kg
+maximum Number Of Electric Carriges - 20
+speed - 113
+*********************************
+*********************************
+Passanger Wagon
+ID - 72
+sender - Mickiewicz
+Net weight - 3234
+Gross weight - 8733
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 165
+Number of toilets - 2
+*********************************
+ *********************************
+Restaurant wagon
+ID - 69
+sender - Mewa
+Net weight - 11925
+Gross weight - 12266
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Freight Wagon
+ID - 73
+sender - Krokus
+Net weight - 13446
+Gross weight - 13617
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 12
+*********************************
+ *********************************
+Restaurant wagon
+ID - 75
+sender - Sawa
+Net weight - 13022
+Gross weight - 14023
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Freight Wagon
+ID - 68
+sender - Goplana
+Net weight - 13343
+Gross weight - 17788
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 10
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 67
+sender - Tatry
+Net weight - 11276
+Gross weight - 18215
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 11
+Temperature - 20
+Number of refrigerators - 20
+*********************************
+ *********************************
+Restaurant wagon
+ID - 71
+sender - Wisla
+Net weight - 9368
+Gross weight - 18571
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 70
+sender - Tatry
+Net weight - 25210 
+Gross weight - 30734
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 14
+Built-in Excavator - false
+Max weight od each element - 11
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 74
+sender - Pieniny
+Net weight - 19668 
+Gross weight - 44691
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 10
+Built-in Excavator - true
+Max weight od each element - 9
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 21
+Whole distance - 66.0
+Distance already traveled to next Station - 26 %
+Distance already traveled - 2 %
+*********************************
+Locomotive 
+ID - 21
+name - 'Slowacki' 
+mother - Station: 78
+starting station - Station: 40
+destination station - Station: 49
+maximum number of carriges - 21
+maximum Weight Of Torsion - 198266 Kg
+maximum Number Of Electric Carriges - 18
+speed - 129
+*********************************
+*********************************
+Passanger Wagon
+ID - 152
+sender - Krokus
+Net weight - 7078
+Gross weight - 5881
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 135
+Number of toilets - 2
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 151
+sender - Wisla
+Net weight - 8783
+Gross weight - 14534
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 18
+Temperature - 13
+Number of refrigerators - 10
+*********************************
+ *********************************
+Freight Wagon
+ID - 150
+sender - Mewa
+Net weight - 12265
+Gross weight - 16295
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 18
+*********************************
+ *********************************
+Restaurant wagon
+ID - 153
+sender - Mewa
+Net weight - 13130
+Gross weight - 16861
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Freight Wagon
+ID - 155
+sender - Pieniny
+Net weight - 12143
+Gross weight - 17576
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 13
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 154
+sender - Pieniny
+Net weight - 20299 
+Gross weight - 39299
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 13
+Built-in Excavator - false
+Max weight od each element - 15
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 18
+Whole distance - 74.0
+Distance already traveled to next Station - 50 %
+Distance already traveled - 1 %
+*********************************
+Locomotive 
+ID - 18
+name - 'Sawa' 
+mother - Station: 75
+starting station - Station: 77
+destination station - Station: 51
+maximum number of carriges - 27
+maximum Weight Of Torsion - 279934 Kg
+maximum Number Of Electric Carriges - 15
+speed - 117
+*********************************
+*********************************
+Passanger Wagon
+ID - 133
+sender - Wisla
+Net weight - 6009
+Gross weight - 10224
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 158
+Number of toilets - 2
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 129
+sender - Pieniny
+Net weight - 8141
+Gross weight - 13662
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 8
+Temperature - 9
+Number of refrigerators - 19
+*********************************
+ *********************************
+Freight Wagon
+ID - 131
+sender - Pieniny
+Net weight - 13806
+Gross weight - 14852
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 11
+*********************************
+ *********************************
+Restaurant wagon
+ID - 128
+sender - Mickiewicz
+Net weight - 8749
+Gross weight - 15128
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 132
+sender - Artus
+Net weight - 11285
+Gross weight - 15576
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 17
+Temperature - 16
+Number of refrigerators - 9
+*********************************
+ *********************************
+Restaurant wagon
+ID - 130
+sender - Goplana
+Net weight - 11329
+Gross weight - 16648
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Restaurant wagon
+ID - 134
+sender - Tatry
+Net weight - 13026
+Gross weight - 18941
+Security level - mid
+Loaded - false
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 20
+Whole distance - 74.0
+Distance already traveled to next Station - 37 %
+Distance already traveled - 1 %
+*********************************
+Locomotive 
+ID - 20
+name - 'Krokus' 
+mother - Station: 76
+starting station - Station: 23
+destination station - Station: 51
+maximum number of carriges - 21
+maximum Weight Of Torsion - 186861 Kg
+maximum Number Of Electric Carriges - 17
+speed - 80
+*********************************
+*********************************
+Passanger Wagon
+ID - 148
+sender - Goplana
+Net weight - 5309
+Gross weight - 5506
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 136
+Number of toilets - 2
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 147
+sender - Tatry
+Net weight - 8238
+Gross weight - 13252
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 12
+Temperature - 20
+Number of refrigerators - 11
+*********************************
+ *********************************
+Freight Wagon
+ID - 146
+sender - Mickiewicz
+Net weight - 12200
+Gross weight - 13347
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 8
+*********************************
+ *********************************
+Restaurant wagon
+ID - 149
+sender - Mickiewicz
+Net weight - 8146
+Gross weight - 17475
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Restaurant wagon
+ID - 145
+sender - Mewa
+Net weight - 8838
+Gross weight - 18823
+Security level - mid
+Loaded - false
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 7
+Whole distance - 75.0
+Distance already traveled to next Station - 29 %
+Distance already traveled - 1 %
+*********************************
+Locomotive 
+ID - 7
+name - 'Sawa' 
+mother - Station: 73
+starting station - Station: 78
+destination station - Station: 56
+maximum number of carriges - 23
+maximum Weight Of Torsion - 361381 Kg
+maximum Number Of Electric Carriges - 13
+speed - 141
+*********************************
+*********************************
+Restaurant wagon
+ID - 45
+sender - Pieniny
+Net weight - 11777
+Gross weight - 12382
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 47
+sender - Mickiewicz
+Net weight - 12332
+Gross weight - 15010
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 8
+Temperature - 9
+Number of refrigerators - 18
+*********************************
+ *********************************
+Freight Wagon
+ID - 48
+sender - Tatry
+Net weight - 8711
+Gross weight - 15965
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 11
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 44
+sender - Tetmajer
+Net weight - 9883
+Gross weight - 18804
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 10
+Temperature - 13
+Number of refrigerators - 12
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 46
+sender - Krokus
+Net weight - 18371 
+Gross weight - 31282
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 17
+Built-in Excavator - true
+Max weight od each element - 15
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 9
+Whole distance - 81.0
+Distance already traveled to next Station - 78 %
+Distance already traveled - 0 %
+*********************************
+Locomotive 
+ID - 9
+name - 'Krokus' 
+mother - Station: 41
+starting station - Station: 15
+destination station - Station: 59
+maximum number of carriges - 23
+maximum Weight Of Torsion - 252946 Kg
+maximum Number Of Electric Carriges - 18
+speed - 151
+*********************************
+*********************************
+Passanger Wagon
+ID - 64
+sender - Artus
+Net weight - 6609
+Gross weight - 6382
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 131
+Number of toilets - 2
+*********************************
+ *********************************
+Restaurant wagon
+ID - 63
+sender - Posejdon
+Net weight - 8551
+Gross weight - 13634
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 59
+sender - Krokus
+Net weight - 12398
+Gross weight - 14136
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 14
+Temperature - 10
+Number of refrigerators - 14
+*********************************
+ *********************************
+Freight Wagon
+ID - 65
+sender - Tatry
+Net weight - 8425
+Gross weight - 14336
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 20
+*********************************
+ *********************************
+Restaurant wagon
+ID - 61
+sender - Tetmajer
+Net weight - 11100
+Gross weight - 16438
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Freight Wagon
+ID - 60
+sender - Mickiewicz
+Net weight - 12943
+Gross weight - 16883
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 13
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 62
+sender - Posejdon
+Net weight - 24063 
+Gross weight - 32177
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 13
+Built-in Excavator - false
+Max weight od each element - 20
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 66
+sender - Goplana
+Net weight - 22315 
+Gross weight - 34338
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 13
+Built-in Excavator - true
+Max weight od each element - 12
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 58
+sender - Sawa
+Net weight - 22406 
+Gross weight - 42231
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 19
+Built-in Excavator - true
+Max weight od each element - 13
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 15
+Whole distance - 81.0
+Distance already traveled to next Station - 50 %
+Distance already traveled - 1 %
+*********************************
+Locomotive 
+ID - 15
+name - 'Mickiewicz' 
+mother - Station: 52
+starting station - Station: 82
+destination station - Station: 58
+maximum number of carriges - 22
+maximum Weight Of Torsion - 384168 Kg
+maximum Number Of Electric Carriges - 18
+speed - 93
+*********************************
+*********************************
+Passanger Wagon
+ID - 108
+sender - Pieniny
+Net weight - 4788
+Gross weight - 6498
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 104
+Number of toilets - 2
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 112
+sender - Tatry
+Net weight - 10046
+Gross weight - 12342
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 17
+Temperature - 19
+Number of refrigerators - 11
+*********************************
+ *********************************
+Restaurant wagon
+ID - 113
+sender - Artus
+Net weight - 8690
+Gross weight - 15840
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Freight Wagon
+ID - 109
+sender - Wisla
+Net weight - 11507
+Gross weight - 16364
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 19
+*********************************
+ *********************************
+Restaurant wagon
+ID - 111
+sender - Artus
+Net weight - 11319
+Gross weight - 17040
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 110
+sender - Mewa
+Net weight - 24358 
+Gross weight - 32688
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 17
+Built-in Excavator - false
+Max weight od each element - 19
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 22
+Whole distance - 82.0
+Distance already traveled to next Station - 73 %
+Distance already traveled - 0 %
+*********************************
+Locomotive 
+ID - 22
+name - 'Posejdon' 
+mother - Station: 6
+starting station - Station: 56
+destination station - Station: 60
+maximum number of carriges - 24
+maximum Weight Of Torsion - 278535 Kg
+maximum Number Of Electric Carriges - 15
+speed - 113
+*********************************
+*********************************
+Passanger Wagon
+ID - 157
+sender - Tatry
+Net weight - 5680
+Gross weight - 6561
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 167
+Number of toilets - 2
+*********************************
+ *********************************
+Passanger Wagon
+ID - 161
+sender - Pieniny
+Net weight - 2277
+Gross weight - 11619
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 105
+Number of toilets - 2
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 156
+sender - Krokus
+Net weight - 13564
+Gross weight - 12753
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 9
+Temperature - 16
+Number of refrigerators - 15
+*********************************
+ *********************************
+Restaurant wagon
+ID - 158
+sender - Krokus
+Net weight - 9187
+Gross weight - 12951
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Restaurant wagon
+ID - 164
+sender - Krokus
+Net weight - 9867
+Gross weight - 16162
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Freight Wagon
+ID - 160
+sender - Tatry
+Net weight - 9680
+Gross weight - 17366
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 17
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 162
+sender - Sawa
+Net weight - 9558
+Gross weight - 17512
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 17
+Temperature - 15
+Number of refrigerators - 18
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 159
+sender - Mewa
+Net weight - 22064 
+Gross weight - 40526
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 19
+Built-in Excavator - true
+Max weight od each element - 9
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 163
+sender - Artus
+Net weight - 21466 
+Gross weight - 40991
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 17
+Built-in Excavator - false
+Max weight od each element - 15
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 23
+Whole distance - 84.0
+Distance already traveled to next Station - 32 %
+Distance already traveled - 1 %
+*********************************
+Locomotive 
+ID - 23
+name - 'Sawa' 
+mother - Station: 4
+starting station - Station: 48
+destination station - Station: 59
+maximum number of carriges - 21
+maximum Weight Of Torsion - 371987 Kg
+maximum Number Of Electric Carriges - 17
+speed - 149
+*********************************
+*********************************
+Passanger Wagon
+ID - 165
+sender - Krokus
+Net weight - 7248
+Gross weight - 5328
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 109
+Number of toilets - 2
+*********************************
+ *********************************
+Passanger Wagon
+ID - 169
+sender - Tetmajer
+Net weight - 4891
+Gross weight - 10286
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 141
+Number of toilets - 2
+*********************************
+ *********************************
+Restaurant wagon
+ID - 166
+sender - Mewa
+Net weight - 13025
+Gross weight - 12580
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Freight Wagon
+ID - 168
+sender - Posejdon
+Net weight - 10691
+Gross weight - 13908
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 13
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 167
+sender - Goplana
+Net weight - 18168 
+Gross weight - 47342
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 10
+Built-in Excavator - false
+Max weight od each element - 18
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 13
+Whole distance - 88.0
+Distance already traveled to next Station - 35 %
+Distance already traveled - 1 %
+*********************************
+Locomotive 
+ID - 13
+name - 'Mickiewicz' 
+mother - Station: 100
+starting station - Station: 46
+destination station - Station: 63
+maximum number of carriges - 25
+maximum Weight Of Torsion - 362378 Kg
+maximum Number Of Electric Carriges - 18
+speed - 101
+*********************************
+*********************************
+Passanger Wagon
+ID - 93
+sender - Pieniny
+Net weight - 6228
+Gross weight - 6243
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 162
+Number of toilets - 2
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 97
+sender - Pieniny
+Net weight - 11443
+Gross weight - 14051
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 9
+Temperature - 13
+Number of refrigerators - 12
+*********************************
+ *********************************
+Restaurant wagon
+ID - 92
+sender - Wisla
+Net weight - 10541
+Gross weight - 14254
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 100
+sender - Artus
+Net weight - 9256
+Gross weight - 15567
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 16
+Temperature - 13
+Number of refrigerators - 18
+*********************************
+ *********************************
+Restaurant wagon
+ID - 98
+sender - Artus
+Net weight - 9610
+Gross weight - 15866
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Freight Wagon
+ID - 94
+sender - Artus
+Net weight - 10010
+Gross weight - 16428
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 9
+*********************************
+ *********************************
+Freight Wagon
+ID - 99
+sender - Tatry
+Net weight - 13953
+Gross weight - 17269
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 20
+*********************************
+ *********************************
+Restaurant wagon
+ID - 96
+sender - Krokus
+Net weight - 13677
+Gross weight - 17735
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 95
+sender - Pieniny
+Net weight - 19567 
+Gross weight - 37350
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 8
+Built-in Excavator - true
+Max weight od each element - 13
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 91
+sender - Posejdon
+Net weight - 20676 
+Gross weight - 46895
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 11
+Built-in Excavator - true
+Max weight od each element - 8
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 25
+Whole distance - 91.0
+Distance already traveled to next Station - 54 %
+Distance already traveled - 1 %
+*********************************
+Locomotive 
+ID - 25
+name - 'Artus' 
+mother - Station: 80
+starting station - Station: 14
+destination station - Station: 70
+maximum number of carriges - 20
+maximum Weight Of Torsion - 375562 Kg
+maximum Number Of Electric Carriges - 16
+speed - 95
+*********************************
+*********************************
+Passanger Wagon
+ID - 179
+sender - Mickiewicz
+Net weight - 3831
+Gross weight - 8470
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 133
+Number of toilets - 2
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 180
+sender - Krokus
+Net weight - 11959
+Gross weight - 14414
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 17
+Temperature - 14
+Number of refrigerators - 15
+*********************************
+ *********************************
+Freight Wagon
+ID - 178
+sender - Pieniny
+Net weight - 8867
+Gross weight - 17523
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 9
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 177
+sender - Wisla
+Net weight - 25864 
+Gross weight - 31586
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 20
+Built-in Excavator - true
+Max weight od each element - 9
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 181
+sender - Tetmajer
+Net weight - 24479 
+Gross weight - 32476
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 19
+Built-in Excavator - false
+Max weight od each element - 19
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 3
+Whole distance - 95.0
+Distance already traveled to next Station - 80 %
+Distance already traveled - 0 %
+*********************************
+Locomotive 
+ID - 3
+name - 'Pieniny' 
+mother - Station: 30
+starting station - Station: 11
+destination station - Station: 69
+maximum number of carriges - 21
+maximum Weight Of Torsion - 237531 Kg
+maximum Number Of Electric Carriges - 19
+speed - 75
+*********************************
+*********************************
+Passanger Wagon
+ID - 13
+sender - Goplana
+Net weight - 6232
+Gross weight - 10898
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 111
+Number of toilets - 2
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 20
+sender - Artus
+Net weight - 8820
+Gross weight - 12980
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 19
+Temperature - 10
+Number of refrigerators - 20
+*********************************
+ *********************************
+Freight Wagon
+ID - 21
+sender - Posejdon
+Net weight - 12918
+Gross weight - 14884
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 15
+*********************************
+ *********************************
+Freight Wagon
+ID - 16
+sender - Tetmajer
+Net weight - 13504
+Gross weight - 14942
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 9
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 17
+sender - Mewa
+Net weight - 12045
+Gross weight - 15276
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 12
+Temperature - 13
+Number of refrigerators - 9
+*********************************
+ *********************************
+Restaurant wagon
+ID - 18
+sender - Goplana
+Net weight - 11515
+Gross weight - 17523
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 14
+sender - Krokus
+Net weight - 12041
+Gross weight - 18573
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 13
+Temperature - 18
+Number of refrigerators - 8
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 15
+sender - Krokus
+Net weight - 21516 
+Gross weight - 30208
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 15
+Built-in Excavator - true
+Max weight od each element - 9
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 19
+sender - Mickiewicz
+Net weight - 20431 
+Gross weight - 46433
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 16
+Built-in Excavator - true
+Max weight od each element - 12
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 12
+Whole distance - 96.0
+Distance already traveled to next Station - 65 %
+Distance already traveled - 1 %
+*********************************
+Locomotive 
+ID - 12
+name - 'Mewa' 
+mother - Station: 56
+starting station - Station: 23
+destination station - Station: 69
+maximum number of carriges - 27
+maximum Weight Of Torsion - 239200 Kg
+maximum Number Of Electric Carriges - 20
+speed - 132
+*********************************
+*********************************
+Passanger Wagon
+ID - 86
+sender - Posejdon
+Net weight - 4911
+Gross weight - 5112
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 155
+Number of toilets - 2
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 90
+sender - Pieniny
+Net weight - 12234
+Gross weight - 13509
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 15
+Temperature - 13
+Number of refrigerators - 9
+*********************************
+ *********************************
+Freight Wagon
+ID - 87
+sender - Tatry
+Net weight - 8169
+Gross weight - 14491
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 9
+*********************************
+ *********************************
+Restaurant wagon
+ID - 83
+sender - Pieniny
+Net weight - 11697
+Gross weight - 14977
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Restaurant wagon
+ID - 85
+sender - Krokus
+Net weight - 8171
+Gross weight - 15386
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Restaurant wagon
+ID - 89
+sender - Pieniny
+Net weight - 11279
+Gross weight - 18914
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 84
+sender - Mickiewicz
+Net weight - 25198 
+Gross weight - 32862
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 18
+Built-in Excavator - false
+Max weight od each element - 18
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 88
+sender - Krokus
+Net weight - 19340 
+Gross weight - 47420
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 20
+Built-in Excavator - false
+Max weight od each element - 8
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 19
+Whole distance - 97.0
+Distance already traveled to next Station - 50 %
+Distance already traveled - 1 %
+*********************************
+Locomotive 
+ID - 19
+name - 'Goplana' 
+mother - Station: 87
+starting station - Station: 61
+destination station - Station: 71
+maximum number of carriges - 26
+maximum Weight Of Torsion - 299085 Kg
+maximum Number Of Electric Carriges - 21
+speed - 92
+*********************************
+*********************************
+Passanger Wagon
+ID - 139
+sender - Krokus
+Net weight - 5636
+Gross weight - 7379
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 132
+Number of toilets - 2
+*********************************
+ *********************************
+Passanger Wagon
+ID - 143
+sender - Sawa
+Net weight - 5047
+Gross weight - 8266
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 110
+Number of toilets - 2
+*********************************
+ *********************************
+Restaurant wagon
+ID - 140
+sender - Goplana
+Net weight - 13750
+Gross weight - 12217
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 135
+sender - Artus
+Net weight - 11430
+Gross weight - 12703
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 15
+Temperature - 17
+Number of refrigerators - 8
+*********************************
+ *********************************
+Freight Wagon
+ID - 137
+sender - Tatry
+Net weight - 8070
+Gross weight - 13034
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 10
+*********************************
+ *********************************
+Restaurant wagon
+ID - 136
+sender - Krokus
+Net weight - 8538
+Gross weight - 16152
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Freight Wagon
+ID - 142
+sender - Tetmajer
+Net weight - 10090
+Gross weight - 16453
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 19
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 138
+sender - Wisla
+Net weight - 12416
+Gross weight - 18083
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 14
+Temperature - 9
+Number of refrigerators - 11
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 144
+sender - Tetmajer
+Net weight - 8438
+Gross weight - 18684
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 10
+Temperature - 11
+Number of refrigerators - 17
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 141
+sender - Tatry
+Net weight - 21063 
+Gross weight - 44046
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 13
+Built-in Excavator - true
+Max weight od each element - 17
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 5
+Whole distance - 99.0
+Distance already traveled to next Station - 60 %
+Distance already traveled - 1 %
+*********************************
+Locomotive 
+ID - 5
+name - 'Wisla' 
+mother - Station: 18
+starting station - Station: 100
+destination station - Station: 70
+maximum number of carriges - 27
+maximum Weight Of Torsion - 211616 Kg
+maximum Number Of Electric Carriges - 16
+speed - 126
+*********************************
+*********************************
+Refrigerated Wagon
+ID - 34
+sender - Tetmajer
+Net weight - 11166
+Gross weight - 14061
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 9
+Temperature - 9
+Number of refrigerators - 19
+*********************************
+ *********************************
+Restaurant wagon
+ID - 35
+sender - Pieniny
+Net weight - 11858
+Gross weight - 16537
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Freight Wagon
+ID - 33
+sender - Pieniny
+Net weight - 8423
+Gross weight - 17127
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 18
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 36
+sender - Mewa
+Net weight - 21542 
+Gross weight - 42034
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 12
+Built-in Excavator - true
+Max weight od each element - 16
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 32
+sender - Artus
+Net weight - 21405 
+Gross weight - 46668
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 8
+Built-in Excavator - false
+Max weight od each element - 17
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 1
+Whole distance - 111.0
+Distance already traveled to next Station - 74 %
+Distance already traveled - 0 %
+*********************************
+Locomotive 
+ID - 1
+name - 'Tatry' 
+mother - Station: 19
+starting station - Station: 70
+destination station - Station: 79
+maximum number of carriges - 24
+maximum Weight Of Torsion - 236559 Kg
+maximum Number Of Electric Carriges - 16
+speed - 114
+*********************************
+*********************************
+Passanger Wagon
+ID - 3
+sender - Posejdon
+Net weight - 6943
+Gross weight - 8916
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 121
+Number of toilets - 2
+*********************************
+ *********************************
+Restaurant wagon
+ID - 2
+sender - Mewa
+Net weight - 11968
+Gross weight - 12189
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Freight Wagon
+ID - 1
+sender - Krokus
+Net weight - 11369
+Gross weight - 13302
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 11
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 4
+sender - Mewa
+Net weight - 10888
+Gross weight - 13399
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 11
+Temperature - 11
+Number of refrigerators - 11
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 5
+sender - Wisla
+Net weight - 22236 
+Gross weight - 46643
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 19
+Built-in Excavator - false
+Max weight od each element - 15
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 16
+Whole distance - 117.0
+Distance already traveled to next Station - 22 %
+Distance already traveled - 1 %
+*********************************
+Locomotive 
+ID - 16
+name - 'Tetmajer' 
+mother - Station: 49
+starting station - Station: 87
+destination station - Station: 80
+maximum number of carriges - 27
+maximum Weight Of Torsion - 266843 Kg
+maximum Number Of Electric Carriges - 12
+speed - 102
+*********************************
+*********************************
+Freight Wagon
+ID - 119
+sender - Wisla
+Net weight - 8375
+Gross weight - 14391
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 20
+*********************************
+ *********************************
+Restaurant wagon
+ID - 116
+sender - Goplana
+Net weight - 8230
+Gross weight - 15538
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Freight Wagon
+ID - 114
+sender - Tetmajer
+Net weight - 12224
+Gross weight - 16465
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 9
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 117
+sender - Wisla
+Net weight - 11153
+Gross weight - 16661
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 14
+Temperature - 9
+Number of refrigerators - 16
+*********************************
+ *********************************
+Restaurant wagon
+ID - 118
+sender - Sawa
+Net weight - 8131
+Gross weight - 17046
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 115
+sender - Tatry
+Net weight - 22167 
+Gross weight - 41261
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 19
+Built-in Excavator - true
+Max weight od each element - 15
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 4
+Whole distance - 121.0
+Distance already traveled to next Station - 20 %
+Distance already traveled - 1 %
+*********************************
+Locomotive 
+ID - 4
+name - 'Krokus' 
+mother - Station: 82
+starting station - Station: 76
+destination station - Station: 85
+maximum number of carriges - 27
+maximum Weight Of Torsion - 336087 Kg
+maximum Number Of Electric Carriges - 16
+speed - 119
+*********************************
+*********************************
+Refrigerated Wagon
+ID - 25
+sender - Goplana
+Net weight - 13870
+Gross weight - 13405
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 9
+Temperature - 16
+Number of refrigerators - 9
+*********************************
+ *********************************
+Freight Wagon
+ID - 24
+sender - Goplana
+Net weight - 13096
+Gross weight - 13625
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 10
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 28
+sender - Posejdon
+Net weight - 10380
+Gross weight - 15366
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 14
+Temperature - 18
+Number of refrigerators - 12
+*********************************
+ *********************************
+Restaurant wagon
+ID - 26
+sender - Mickiewicz
+Net weight - 8786
+Gross weight - 17006
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Restaurant wagon
+ID - 30
+sender - Mickiewicz
+Net weight - 9829
+Gross weight - 17141
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 22
+sender - Mewa
+Net weight - 12789
+Gross weight - 18075
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 11
+Temperature - 13
+Number of refrigerators - 20
+*********************************
+ *********************************
+Freight Wagon
+ID - 29
+sender - Mickiewicz
+Net weight - 10440
+Gross weight - 18460
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 20
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 23
+sender - Tetmajer
+Net weight - 22345 
+Gross weight - 30437
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 15
+Built-in Excavator - true
+Max weight od each element - 9
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 27
+sender - Mickiewicz
+Net weight - 18648 
+Gross weight - 45928
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 9
+Built-in Excavator - false
+Max weight od each element - 19
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 31
+sender - Tetmajer
+Net weight - 23756 
+Gross weight - 47903
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 16
+Built-in Excavator - true
+Max weight od each element - 19
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 24
+Whole distance - 128.0
+Distance already traveled to next Station - 76 %
+Distance already traveled - 0 %
+*********************************
+Locomotive 
+ID - 24
+name - 'Artus' 
+mother - Station: 20
+starting station - Station: 75
+destination station - Station: 89
+maximum number of carriges - 29
+maximum Weight Of Torsion - 332569 Kg
+maximum Number Of Electric Carriges - 16
+speed - 124
+*********************************
+*********************************
+Passanger Wagon
+ID - 173
+sender - Pieniny
+Net weight - 4566
+Gross weight - 8727
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 144
+Number of toilets - 2
+*********************************
+ *********************************
+Freight Wagon
+ID - 172
+sender - Krokus
+Net weight - 13448
+Gross weight - 12746
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 17
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 174
+sender - Pieniny
+Net weight - 12258
+Gross weight - 15393
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 18
+Temperature - 11
+Number of refrigerators - 11
+*********************************
+ *********************************
+Restaurant wagon
+ID - 176
+sender - Goplana
+Net weight - 8917
+Gross weight - 16400
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Restaurant wagon
+ID - 170
+sender - Posejdon
+Net weight - 12255
+Gross weight - 18899
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 171
+sender - Artus
+Net weight - 20072 
+Gross weight - 31594
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 11
+Built-in Excavator - false
+Max weight od each element - 17
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 175
+sender - Tatry
+Net weight - 18660 
+Gross weight - 44197
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 19
+Built-in Excavator - true
+Max weight od each element - 13
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 14
+Whole distance - 130.0
+Distance already traveled to next Station - 75 %
+Distance already traveled - 0 %
+*********************************
+Locomotive 
+ID - 14
+name - 'Mewa' 
+mother - Station: 25
+starting station - Station: 24
+destination station - Station: 92
+maximum number of carriges - 27
+maximum Weight Of Torsion - 225603 Kg
+maximum Number Of Electric Carriges - 14
+speed - 76
+*********************************
+*********************************
+Passanger Wagon
+ID - 102
+sender - Posejdon
+Net weight - 5170
+Gross weight - 6688
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 167
+Number of toilets - 2
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 106
+sender - Tetmajer
+Net weight - 8159
+Gross weight - 13199
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 18
+Temperature - 14
+Number of refrigerators - 17
+*********************************
+ *********************************
+Restaurant wagon
+ID - 105
+sender - Pieniny
+Net weight - 8293
+Gross weight - 13923
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Freight Wagon
+ID - 103
+sender - Mickiewicz
+Net weight - 12626
+Gross weight - 14108
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 15
+*********************************
+ *********************************
+Restaurant wagon
+ID - 101
+sender - Pieniny
+Net weight - 12989
+Gross weight - 17688
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Restaurant wagon
+ID - 107
+sender - Tatry
+Net weight - 13701
+Gross weight - 18479
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 104
+sender - Sawa
+Net weight - 21382 
+Gross weight - 32561
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 14
+Built-in Excavator - false
+Max weight od each element - 16
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 17
+Whole distance - 132.0
+Distance already traveled to next Station - 18 %
+Distance already traveled - 1 %
+*********************************
+Locomotive 
+ID - 17
+name - 'Tatry' 
+mother - Station: 73
+starting station - Station: 46
+destination station - Station: 98
+maximum number of carriges - 29
+maximum Weight Of Torsion - 323036 Kg
+maximum Number Of Electric Carriges - 21
+speed - 136
+*********************************
+*********************************
+Passanger Wagon
+ID - 126
+sender - Goplana
+Net weight - 7199
+Gross weight - 8494
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 122
+Number of toilets - 2
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 122
+sender - Wisla
+Net weight - 10209
+Gross weight - 12116
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 20
+Temperature - 9
+Number of refrigerators - 13
+*********************************
+ *********************************
+Restaurant wagon
+ID - 123
+sender - Posejdon
+Net weight - 9392
+Gross weight - 13412
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 125
+sender - Wisla
+Net weight - 8848
+Gross weight - 15700
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 18
+Temperature - 10
+Number of refrigerators - 14
+*********************************
+ *********************************
+Restaurant wagon
+ID - 127
+sender - Wisla
+Net weight - 10971
+Gross weight - 16639
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Freight Wagon
+ID - 124
+sender - Artus
+Net weight - 9563
+Gross weight - 17953
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 16
+*********************************
+ *********************************
+Restaurant wagon
+ID - 121
+sender - Posejdon
+Net weight - 10059
+Gross weight - 18875
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 120
+sender - Goplana
+Net weight - 24647 
+Gross weight - 44798
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 10
+Built-in Excavator - false
+Max weight od each element - 14
+*********************************
+
+
+
+
+TRAIN COMPOSIOTION - ID 2
+Whole distance - 136.0
+Distance already traveled to next Station - 77 %
+Distance already traveled - 1 %
+*********************************
+Locomotive 
+ID - 2
+name - 'Posejdon' 
+mother - Station: 70
+starting station - Station: 100
+destination station - Station: 96
+maximum number of carriges - 26
+maximum Weight Of Torsion - 248530 Kg
+maximum Number Of Electric Carriges - 13
+speed - 147
+*********************************
+*********************************
+Passanger Wagon
+ID - 7
+sender - Pieniny
+Net weight - 4738
+Gross weight - 6546
+Security level - mid
+Connection to elecrticity network - true
+Loaded - false
+Number of sitting places - 163
+Number of toilets - 2
+*********************************
+ *********************************
+Freight Wagon
+ID - 10
+sender - Mewa
+Net weight - 9746
+Gross weight - 12374
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 19
+*********************************
+ *********************************
+Restaurant wagon
+ID - 12
+sender - Krokus
+Net weight - 13293
+Gross weight - 13628
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 8
+sender - Goplana
+Net weight - 8728
+Gross weight - 13786
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - true
+Max lenght of freight - 14
+Temperature - 12
+Number of refrigerators - 20
+*********************************
+ *********************************
+Restaurant wagon
+ID - 6
+sender - Pieniny
+Net weight - 12922
+Gross weight - 14203
+Security level - mid
+Loaded - false
+*********************************
+ *********************************
+Refrigerated Wagon
+ID - 11
+sender - Mewa
+Net weight - 11187
+Gross weight - 16487
+Security level - high
+Connection to elecrticity network - true
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 19
+Temperature - 11
+Number of refrigerators - 17
+*********************************
+ *********************************
+Heavy freight Wagon
+ID - 9
+sender - Wisla
+Net weight - 23589 
+Gross weight - 45686
+Security level - high
+Connection to elecrticity network - false
+Loaded - false
+Is outdoor - false
+Max lenght of freight - 14
+Built-in Excavator - true
+Max weight od each element - 17
+*********************************
+
+
+
